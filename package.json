@@ -1,0 +1,12 @@
+{
+  "name": "youtube-lyrics-proxy",
+  "version": "1.0.0",
+  "main": "proxy.js",
+  "type": "module",
+  "dependencies": {
+    "express": "latest"
+  },
+  "scripts": {
+    "start": "node proxy.js"
+  }
+}
